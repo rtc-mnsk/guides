@@ -1,4 +1,4 @@
 Установка программ в Ubuntu и Linux Mint
 ---------
 Для начала проверьте, не установлена ли уже в системе нужная вам программа. Нажмите клавишу Win и начинайте набирать название необходимой программы. Если она уже установлена, вы увидите ее значок:
-![ScreenShot](/images/installation/installed.png)
+<p>![ScreenShot](/images/installation/installed.png)</p>
