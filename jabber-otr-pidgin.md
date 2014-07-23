@@ -66,22 +66,24 @@ Jabber (XMPP) - это открытый протокол для обмена м�
 Если вам нужно создать новый аккаунт, вы можете воспользоваться любым сервером из этого [списка публично доступных XMPP-серверов](https://list.jabber.at) (из которого мы рекомендуем использовать **jabber.ccc.de**) или **dukgo.com**. Однако мы советуем пользоваться сервисами, которые предоставляют либертарные технические коллективы, определенная репутация которых говорит о доверии к ним множества активистов. Ниже приведена таблица коллективов, предоставляющих jabber-аккаунт, название домена для выбора и условия создания аккаунта.
 
 <table>
-    <tr>
+    <tr valign="top">
         <td><b>Коллектив&nbsp;&nbsp;&nbsp;</b></td>
-        <td><b>Варианты домена&nbsp;&nbsp;&nbsp;</b></td>
+        <td colspan="2"><b>Варианты домена&nbsp;&nbsp;&nbsp;</b></td>
         <td><b>Условия создания аккаунта&nbsp;&nbsp;&nbsp;</b></td>
     </tr>
-    <tr>
+    <tr valign="top">
         <td><a href="https://riseup.net">RiseUp</a></td>
-        <td>riseup.net</td>
+        <td colspan="2">riseup.net</td>
         <td>Подать <a href="https://user.riseup.net/forms/new_user/first">запрос на создание аккаунта</a> (этот же аккаунт будет являться почтовым ящиком с таким же именем); ввести 2 кода-приглашения от уже существующих аккаунтов или подождать пару дней</td>
     </tr>
-    <tr>
+    <tr valign="top">
         <td><a href="https://www.autistici.org">Autistici/Inventati</a>&nbsp;&nbsp;&nbsp;</td>
-        <td>autistici.org<br>inventati.org<br>onenetbeyond.org<br>bastardi.net<br>paranoici.org<br>hacari.org<br>hacari.com<br>hacari.net<br>insiberia.net<br>insicuri.net<br>bruttocarattere.org<br>logorroici.org<br>mortemale.org<br>stronzi.org<br>autistiche.org<br>grrlz.net<br>canaglie.org<br>anche.no<br>canaglie.net<br>krutt.org<br>subvertising.org<br>autoproduzioni.net<br>cryptolab.net<br>distruzione.org<br>privacyrequired.com&nbsp;&nbsp;&nbsp;</td>
+        <td>autistici.org<br>onenetbeyond.org<br>paranoici.org<br>hacari.com<br>hacari.net<br>insicuri.net<br>logorroici.org<br>stronzi.org<br>grrlz.net<br>anche.no<br>krutt.org<br>autoproduzioni.net&nbsp;&nbsp;&nbsp;<br>distruzione.org<br></td>
+
+<td>inventati.org<br>bastardi.net<br>hacari.org<br>insiberia.net<br>bruttocarattere.org<br>mortemale.org<br>autistiche.org<br>canaglie.org<br>canaglie.net<br>subvertising.org<br>cryptolab.net<br>privacyrequired.com&nbsp;&nbsp;&nbsp;</td>
         <td>Подать <a href="https://www.autistici.org/services">запрос на создание почтового ящика</a> (jabber-аккаунт с таким же именем будет создан автоматически)</td>
     </tr>
-    <tr>
+    <tr valign="top">
         <td><a href="https://mayfirst.org">mayfirst.org</a></td>
         <td></td>
         <td></td>
