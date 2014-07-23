@@ -27,7 +27,9 @@ Jabber (XMPP) - это открытый протокол для обмена м�
 ### Windows 7 (Переносимая версия)
 Скачиваем Pidgin с сайта [portableapps.com](http://portableapps.com/apps/internet/pidgin_portable).
 
-![<Скачиваем Pidgin>](/images/jabber-otr-pidgin/pidgin-download.png)
+<p align="center">
+  <img src="/images/jabber-otr-pidgin/pidgin-download.png" alt="<Скачиваем Pidgin>"/>
+</p>
 
 После скачивания запускаем программу установки приложения PidginPortable_x.x.x.paf.exe  (версия программы будет меняться в зависимоасти от времени скачивания). Выбираем язык.
 
