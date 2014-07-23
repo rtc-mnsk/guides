@@ -11,7 +11,7 @@
 ### Что и зачем
 Jabber (XMPP) - это открытый протокол для обмена мгновенными сообщениями, который позволяет обеспечивать конфиденциальное общение за счет открытой инфраструктуры. Это означает, что мы сами можем выбрать сервер для своего аккаунта, избежать сохранения и контроля над своей перепиской третьей стороной, которой мы не доверяем (как в случае со Skype), дополнительно использовать средства шифрования OTR (Off-the-Record) для защиты от прослушки.
 
-Мы рассмотрим свободный клиент Pidgin для использования Jabber и OTR.
+Мы рассмотрим свободный клиент Pidgin для использования Jabber вместе с OTR.
 
 ### Установка Pidgin
 #### Ubuntu и Linux Mint
@@ -72,9 +72,9 @@ Jabber (XMPP) - это открытый протокол для обмена м�
     </tr>
     <tr valign="top">
         <td><a href="https://www.autistici.org">Autistici/Inventati</a>&nbsp;&nbsp;&nbsp;</td>
-        <td>autistici.org<br>onenetbeyond.org<br>paranoici.org<br>hacari.com<br>hacari.net<br>insicuri.net<br>logorroici.org<br>stronzi.org<br>grrlz.net<br>anche.no<br>krutt.org<br>autoproduzioni.net&nbsp;&nbsp;&nbsp;<br>distruzione.org<br></td>
+        <td>autistici.org<br>onenetbeyond.org<br>paranoici.org<br>hacari.com<br>hacari.net<br>insicuri.net<br>logorroici.org<br>stronzi.org<br>grrlz.net<br>anche.no<br>krutt.org<br>autoproduzioni.net<br>distruzione.org<br></td>
 
-<td>inventati.org<br>bastardi.net<br>hacari.org<br>insiberia.net<br>bruttocarattere.org<br>mortemale.org<br>autistiche.org<br>canaglie.org<br>canaglie.net<br>subvertising.org<br>cryptolab.net<br>privacyrequired.com&nbsp;&nbsp;&nbsp;</td>
+<td>inventati.org<br>bastardi.net<br>hacari.org<br>insiberia.net<br>bruttocarattere.org<br>mortemale.org<br>autistiche.org<br>canaglie.org<br>canaglie.net<br>subvertising.org<br>cryptolab.net<br>privacyrequired.com</td>
         <td>Подать <a href="https://www.autistici.org/services">запрос на создание почтового ящика</a> (jabber-аккаунт с таким же именем будет создан автоматически)</td>
     </tr>
     <tr valign="top">
