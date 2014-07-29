@@ -67,9 +67,9 @@ Jabber (XMPP) - это открытый протокол для обмена м�
 
 <table>
     <tr valign="top">
-        <td><b>Коллектив&nbsp;&nbsp;&nbsp;</b></td>
-        <td colspan="2"><b>Варианты домена&nbsp;&nbsp;&nbsp;</b></td>
-        <td><b>Условия создания аккаунта&nbsp;&nbsp;&nbsp;</b></td>
+        <td><b>Коллектив</b></td>
+        <td colspan="2"><b>Варианты домена</b></td>
+        <td><b>Условия создания аккаунта</b></td>
     </tr>
     <tr valign="top">
         <td><a href="https://riseup.net">RiseUp</a></td>
@@ -79,9 +79,24 @@ Jabber (XMPP) - это открытый протокол для обмена м�
     <tr valign="top">
         <td><a href="https://www.autistici.org">Autistici/Inventati</a>&nbsp;&nbsp;&nbsp;</td>
         <td>autistici.org<br>onenetbeyond.org<br>paranoici.org<br>hacari.com<br>hacari.net<br>insicuri.net<br>logorroici.org<br>stronzi.org<br>grrlz.net<br>anche.no<br>krutt.org<br>autoproduzioni.net<br>distruzione.org<br></td>
-
-<td>inventati.org<br>bastardi.net<br>hacari.org<br>insiberia.net<br>bruttocarattere.org<br>mortemale.org<br>autistiche.org<br>canaglie.org<br>canaglie.net<br>subvertising.org<br>cryptolab.net<br>privacyrequired.com</td>
+        <td>inventati.org<br>bastardi.net<br>hacari.org<br>insiberia.net<br>bruttocarattere.org<br>mortemale.org<br>autistiche.org<br>canaglie.org<br>canaglie.net<br>subvertising.org<br>cryptolab.net<br>privacyrequired.com</td>
         <td>Подать <a href="https://www.autistici.org/services">запрос на создание почтового ящика</a> (jabber-аккаунт с таким же именем будет создан автоматически)</td>
+    </tr>
+    <tr valign="top">
+        <td><a href="https://www.draugr.de">Draugr.de</a></td>
+        <td>draugr.de<br>deshalbfrei.org<br>brauchen.info<br>xabber.de</td>
+        <td>ubuntu-jabber.de<br>ubuntu-jabber.net<br>verdammung.org</td>
+        <td>Предварительная регистрация на сайте не требуется, аккаунт можно создать через клиент (есть защита от спама, придется ввести captcha)</td>
+    </tr>
+    <tr valign="top">
+        <td><a href="https://www.free.de">Free!</a></td>
+        <td colspan="2">free.de</td>
+        <td><a href="https://faq.free.de/?action=register">Зарегистрироваться</a> для получения почтового ящика и автоматически jabber-аккаунта с таким же именем</td>
+    </tr>
+    <tr valign="top">
+        <td><a href="https://www.systemli.org">systemli.org</a></td>
+        <td colspan="2">jabber.systemli.org</td>
+        <td>Аккаунт создается через клиент с перенаправлением на сайт, где нужно ввести пароль от создаваемого аккаунта (+ есть защита от спама)</td>
     </tr>
 </table>
 
