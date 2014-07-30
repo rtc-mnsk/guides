@@ -136,4 +136,8 @@ _Пароль / Запомнить пароль_: пароль от вашего
   <img src="/images/jabber-otr-pidgin/pidgin-server-overload.png" alt="<Сервер перегружен>"/>
 </p>
 
-После успешной регистрации
+В появившемся окне учетных записей выбираем нашу запись, вводим пароль и жмем "OK".
+
+<p align="center">
+  <img src="/images/jabber-otr-pidgin/pidgin-login.png" alt="<Введите пароль>"/>
+</p>
