@@ -253,3 +253,7 @@ Jabber (XMPP) - это открытый протокол для обмена м�
 <p align="center">
   <img src="/images/jabber-otr-pidgin/pidgin-disable-logging.png" alt="<Отключение ведения журнала разговора>"/>
 </p>
+
+Проверить наличие журналов переписки можно в папке:
+- `C:\Users\<username>\AppData\Roaming\` в Windows 7
+- `/home/<username>/.purple` в Ubuntu и Linux Mint
