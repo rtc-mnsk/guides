@@ -245,7 +245,7 @@ x – сервис недоступен<br/>
 ? – неизвестно
 
 ### Списки радикальных технических коллективов
-* https://lists.aktivix.org <br/>
+* https://lists.aktivix.org
 * https://www.autistici.org/en/links.html
 * http://indivia.net
 * https://we.riseup.net/riseuphelp+en/radical-servers
