@@ -9,7 +9,6 @@
     <td><b>Почтовая рассылка</b></td>
     <td><b>Веб- хостинг</b></td>
     <td><b>Блог</b></td>
-    <td><b>Микро- блог</b></td>
     <td><b>Jabber (XMPP)</b></td>
     <td><b>IRC</b></td>
     <td><b>VPN / EIP</b></td>
@@ -21,17 +20,15 @@
     <td>o</td>
     <td>x</td>
     <td>x</td>
+    <td>x</td>
+    <td>x</td>
     <td>o</td>
-    <td>x</td>
-    <td>x</td>
-    <td>0</td>
-    <td></td>
+    <td>микроблог</td>
   </tr>  <tr valign="top">
-    <td><b><a href="http://all2all.be"all2all</a></b></td>
+    <td><b><a href="http://all2all.be">all2all</a></b></td>
     <td>o</td>
     <td>x</td>
     <td>o</td>
-    <td>x</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
@@ -43,8 +40,7 @@
     <td>o</td>
     <td>o</td>
     <td>o</td>
-    <td>o[2]</td>
-    <td>x</td>
+    <td>o<sup><a href="https://noblogs.org">2</a></sup></td>
     <td>o</td>
     <td>o</td>
     <td>o</td>
@@ -53,9 +49,8 @@
   <tr valign="top">
     <td><b><a href="https://boum.org">boum!!</a></b></td>
     <td>o</td>
-    <td>o[1]</td>
+    <td>o<sup><a href="https://schleuder2.nadir.org">1</a></sup></td>
     <td>o</td>
-    <td>x</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
@@ -71,7 +66,6 @@
     <td>x</td>
     <td>x</td>
     <td>x</td>
-    <td>x</td>
     <td></td>
   </tr>
   <tr valign="top">
@@ -79,7 +73,6 @@
     <td>o</td>
     <td>o</td>
     <td>o</td>
-    <td>x</td>
     <td>x</td>
     <td>o</td>
     <td>x</td>
@@ -93,7 +86,6 @@
     <td>x</td>
     <td>x</td>
     <td>x</td>
-    <td>x</td>
     <td>o</td>
     <td>x</td>
     <td></td>
@@ -101,10 +93,9 @@
   <tr valign="top">
     <td><b><a href="https://immerda.ch">immerda.ch</a></b></td>
     <td>o</td>
-    <td>o[1]</td>
+    <td>o<sup><a href="https://schleuder2.nadir.org">1</a></sup></td>
     <td>o</td>
     <td>o</td>
-    <td>x</td>
     <td>o</td>
     <td>x</td>
     <td>x</td>
@@ -117,7 +108,6 @@
     <td>o</td>
     <td>x</td>
     <td>x</td>
-    <td>x</td>
     <td>o</td>
     <td>x</td>
     <td>потоковое аудио</td>
@@ -127,7 +117,6 @@
     <td>o</td>
     <td>o</td>
     <td>o</td>
-    <td>x</td>
     <td>x</td>
     <td>?</td>
     <td>x</td>
@@ -143,7 +132,6 @@
     <td>x</td>
     <td>x</td>
     <td>x</td>
-    <td>x</td>
     <td></td>
   </tr>
   <tr valign="top">
@@ -152,7 +140,6 @@
     <td>x</td>
     <td>x</td>
     <td>o</td>
-    <td>x</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
@@ -167,14 +154,12 @@
     <td>x</td>
     <td>x</td>
     <td>x</td>
-    <td>x</td>
     <td></td>
   </tr>
   <tr valign="top">
     <td><b><a href="https://riseup.net">riseup</a></b></td>
     <td>o</td>
     <td>o</td>
-    <td>x</td>
     <td>x</td>
     <td>x</td>
     <td>o</td>
@@ -185,9 +170,8 @@
   <tr valign="top">
     <td><b><a href="https://so36.net">so36</a></b></td>
     <td>o</td>
-    <td>o[1]</td>
+    <td>o<sup><a href="https://schleuder2.nadir.org">1</a></sup></td>
     <td>o</td>
-    <td>x</td>
     <td>x</td>
     <td>o</td>
     <td>x</td>
@@ -203,7 +187,6 @@
     <td>x</td>
     <td>x</td>
     <td>x</td>
-    <td>x</td>
     <td></td>
   </tr>
   <tr valign="top">
@@ -211,7 +194,6 @@
     <td>o</td>
     <td>x</td>
     <td>o</td>
-    <td>x</td>
     <td>x</td>
     <td>o</td>
     <td>x</td>
@@ -221,9 +203,8 @@
   <tr valign="top">
     <td><b><a href="https://tachanka.org">tachanka</a></b></td>
     <td>o</td>
-    <td>o[1]</td>
+    <td>o<sup><a href="https://schleuder2.nadir.org">1</a></sup></td>
     <td>o</td>
-    <td>x</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
@@ -239,7 +220,6 @@
     <td>x</td>
     <td>x</td>
     <td>x</td>
-    <td>x</td>
     <td>piwik</td>
   </tr>
   <tr valign="top">
@@ -247,7 +227,6 @@
     <td>o</td>
     <td>x</td>
     <td>o</td>
-    <td>x</td>
     <td>x</td>
     <td>o</td>
     <td>x</td>
@@ -259,6 +238,3 @@
 o – сервис доступен<br/>
 x – сервис недоступен<br/>
 ? – неизвестно
-
-[1] – зашифрованная рассылка: [schleuder](https://schleuder2.nadir.org)<br/>
-[2] – [noblogs.org](https://noblogs.org)
