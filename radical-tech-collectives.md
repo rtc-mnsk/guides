@@ -124,7 +124,7 @@
     <td>etherpad, friendica, аудио-/видеоконференции, “облако”</td>
   </tr>
   <tr valign="top">
-    <td><b><a href="https://nadir.org">nadir</a></b></td>
+    <td><b><a href="http://nadir.org">nadir</a></b></td>
     <td>o</td>
     <td>x</td>
     <td>o</td>
@@ -165,7 +165,7 @@
     <td>o</td>
     <td>x</td>
     <td>o</td>
-    <td>crabgrass, etherpad/td>
+    <td>crabgrass, etherpad</td>
   </tr>
   <tr valign="top">
     <td><b><a href="https://so36.net">so36</a></b></td>
